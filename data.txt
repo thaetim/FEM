@@ -1,0 +1,13 @@
+H = 0.2
+L = 0.3
+nH = 3
+nL = 4
+nP = 2
+k = 25
+alfa = 25
+c = 700
+ro = 7800
+temp_ambient = 1200
+time_step = 50
+time = 500
+temp_initial = 100
